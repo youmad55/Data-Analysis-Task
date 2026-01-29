@@ -1,13 +1,13 @@
 # Data-Analysis-Task
-Data Analysis Final Project
-Project Overview
+# Data Analysis Final Project
+## Project Overview
 
 This repository contains the complete implementation of the Data Analysis Final Assignment.
 All required tasks defined in the assignment have been fully completed, except for the Bonus section.
 
 The project focuses on time-series analysis, statistical methods, data visualization, and predictive modeling using a real-world electricity consumption dataset.
 
-Dataset
+## Dataset
 
 Dataset Name: Zurich Electricity Consumption Dataset
 
@@ -26,7 +26,7 @@ Statistical analysis and hypothesis testing
 
 Regression and predictive modeling
 
-Completed Tasks
+## Completed Tasks
 A. Data Preprocessing and Data Quality
 
 Dataset overview (dimensions, columns, data types, time range)
